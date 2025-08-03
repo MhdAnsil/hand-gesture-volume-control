@@ -24,15 +24,11 @@ Control your *system volume* and *screen brightness* using real-time hand gestur
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots or a demo GIF in /assets and embed here later)*
-
----
 
 ## 🚀 How to Run
 
 1. Clone the repo  
 2. Install dependencies  
 ```bash
+
 pip install -r requirements.txt
